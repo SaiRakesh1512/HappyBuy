@@ -8,9 +8,9 @@
 <t:adminLayout>
 
     <div class="order-body">
-        <h1 id="body-heading">ORDERS</h1>
+        <h1 id="body-heading">ALL ORDERS</h1>
         <br />
-        <h3 style="color:green"> ${paymentStatus} </h3>
+        <!-- <h3 style="color:green"> ${paymentStatus} </h3> -->
              
          <div class="order-each-item">
          
