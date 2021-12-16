@@ -1,0 +1,21 @@
+#header{
+	width:100vw;
+	height:max-content;
+	background-color:#c2c5aa;
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	padding:5vh 5vw;
+	height:12.5vh;
+}
+
+.header-logo a{
+	color: #582f0e;
+}
+
+.nav-btn{
+	border:none;
+	padding:0.5rem 1.25rem;
+	margin-left:1rem;
+	border-radius: 3px;
+}

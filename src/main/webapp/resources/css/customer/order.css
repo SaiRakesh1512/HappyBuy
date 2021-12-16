@@ -1,0 +1,40 @@
+.order-body{
+    width: 100%;
+    padding: 2.5% 20%;
+}
+
+.order-items .cart-item-container .cart-item-details{
+    width: 50%;
+}
+
+.customer-order-details{
+    padding: 2.5% 20% ;
+    margin:2.5rem 0 ;
+}
+.order-each-item{
+    width: 100%;
+}
+.order-item-container{
+    margin-top: 5rem;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.order-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.order-details span{
+    color: #5e5e5e;
+}
+
+.order-place-btn{
+    width: 100%;
+    margin-top: 1.5rem;
+    background-color: #181818;
+    border-radius: 3px;
+    color: #f1f1f1;
+    padding: 0.5rem;
+}

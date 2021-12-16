@@ -1,0 +1,39 @@
+*,*::after, *::before{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+	width:100vw;
+	min-height: 100vh;
+	overflow-x:hidden;
+	font-family: 'Roboto', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+.jsp-body{
+	width:100vw;
+}
+
+
+.dark-grey{
+	color:#3d3d3d;
+}
+.grey{
+	color:#a0a0a0;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	cursor: pointer;
+	color: #3d3d3d;
+}
