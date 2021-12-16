@@ -7,7 +7,7 @@
 
 <t:customerLayout>	
 	<div class="order-body">
-           <h1 id="pdheading">ORDER ITEMS</h1>
+           <h1 id="pdheading">ORDER DETAILS</h1>
 
             <div class="order-items">
                 <c:forEach var="cartItem" items="${cartItems}" varStatus="status">

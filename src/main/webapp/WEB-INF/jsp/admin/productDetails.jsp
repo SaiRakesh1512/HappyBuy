@@ -8,7 +8,7 @@
 
 <t:adminLayout>
 	<div class="product-details-container">
-
+        <h1 class="body-heading">PRODUCT DETAILS</h1>
            <div class="customer-product-details">
                <div class="customer-product-details-left">
                     <img src="${productModel.imageUrl}" />

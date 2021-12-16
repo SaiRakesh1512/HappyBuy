@@ -1,0 +1,8 @@
+.edit-product-body{
+    padding: 2.5% 30%;
+}
+
+.edit-product-body input{
+    height: 2rem;
+    padding: 0.5rem;
+}
