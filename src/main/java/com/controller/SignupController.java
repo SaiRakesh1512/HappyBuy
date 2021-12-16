@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.emailsender.EmailSenderV1;
-import com.emailsender.EmailSenderV1Imp;
+import com.components.EmailSenderV1;
+import com.components.EmailSenderV1Imp;
 import com.model.UserModel;
 import com.service.UserModelService;
 

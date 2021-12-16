@@ -1,4 +1,4 @@
-package com.emailsender;
+package com.components;
 
 import java.io.FileInputStream;
 import java.io.Serializable;

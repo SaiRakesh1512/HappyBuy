@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.View;
 
+import com.components.SmsSender;
 import com.model.CartItemModel;
 import com.model.Order;
 import com.model.OrderModel;
@@ -98,6 +99,8 @@ public class OrderController {
      			for(Links link:payment.getLinks()) {
      				System.out.println("Link: " + link.getRel() + " : " + link.getHref());
      				if(link.getRel().equals("approval_url")) {
+     					SmsSender.sendSms(contactNo, "Your Order at HappyBuy for amount Rs."+orderModel.getTotalPrice().toString()
+     							+" has been placed... Thank you for purchasing at HappyBuy");
      					return new ModelAndView("redirect:"+link.getHref());
      				}
      			}
