@@ -17,7 +17,7 @@
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         
     </head>
-    <body>
+    <body class="login-body">
         <div>
             <div>
                 <jsp:include page="${contextPath}/WEB-INF/jsp/header.jsp" />

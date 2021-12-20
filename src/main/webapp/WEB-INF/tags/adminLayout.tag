@@ -21,7 +21,7 @@
         <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         
     </head>
-    <body>
+    <body class="admin-body">
 		<jsp:include page="${contextPath}/WEB-INF/jsp/admin/loginValidation.jsp" />	
     
         <div>
