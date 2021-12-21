@@ -38,11 +38,24 @@ body{
 }
 
 a{
+	color: black;
+}
+
+a:hover{
+	cursor: pointer;
+	color: #3d3d3d;
+}
+
+a{
 	text-decoration: none;
 }
 
 .jsp-body{
 	width:100vw;
+}
+
+.header-logo a{
+		color: #1d3557;
 }
 
 
@@ -53,11 +66,3 @@ a{
 	color:#a0a0a0;
 }
 
-a{
-	color: black;
-}
-
-a:hover{
-	cursor: pointer;
-	color: #3d3d3d;
-}

@@ -7,9 +7,7 @@
 
 <t:layout>
 	<div class="login-body">
-		<div class="login-left-body>
-			<img src="${contextPath}/resources/images/login-pic.jpg" alt="furniture illustration" />
-		</div>
+		
 		<form:form  class="login-form" action="login" method="post"  modelAttribute="loginModel">
 			<div class="form-cell">
 				<h1>Email</h1>
