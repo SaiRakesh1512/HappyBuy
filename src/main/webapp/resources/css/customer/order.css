@@ -17,7 +17,11 @@
 .order-item-container{
     margin-top: 5rem;
     border: 1px solid black;
+    border-radius:15px;
     padding: 1rem;
+    background-color: rgba(255,255,255,0.4);
+    
+
 }
 
 .order-details{
@@ -33,7 +37,7 @@
 .order-place-btn{
     width: 100%;
     margin-top: 1.5rem;
-    background-color: #181818;
+    background-color: #457b9d;
     border-radius: 3px;
     color: #f1f1f1;
     padding: 0.5rem;

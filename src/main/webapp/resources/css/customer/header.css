@@ -1,13 +1,14 @@
 #customer-header{
 	width:100vw;
 	height:max-content;
-	background-color:#c2c5aa;
+	background-color: #f1faee;
 	display:flex;
 	justify-content: space-between;
 	align-items: center;
 	padding:5vh 5vw;
 	height:12.5vh;
 }
+
 
 .customer-header-right{
 	display:flex;

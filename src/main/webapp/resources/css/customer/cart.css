@@ -67,9 +67,12 @@
 .cart-item-check-btn span{
     margin-right: 0.6rem;
 }
+.actionlink{
+	background-color: #457b9d;	
+}
 
 .cart-proceed-btn{
-    background-color: #121212;
+    background-color: #457b9d;
     padding: 0.5rem 1rem;
     float: right;
     border: none;
