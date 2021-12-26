@@ -17,5 +17,8 @@ This application has been developed by
   - Paypal ID - something@personal.example.com
   - Paypal password - somethingpass
 
+# PPT link
+https://docs.google.com/presentation/d/1G3eK9lTWkAllLwNAdVR_WmUIebh2hggEJ5LOghbeCcs/edit?usp=sharing
+
 # Demo video link
 https://mega.nz/file/OF5kyaAL#mAfYlj8XUKFVsZG-BNAB6CM3jbdZ1gpNerpriao_P9s
